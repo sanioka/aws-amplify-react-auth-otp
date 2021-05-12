@@ -51,7 +51,7 @@
         "amplifyreactotpCreateAuthChallenge": {
           "CHALLENGEANSWER": "фьздшан згыр",
           "deploymentBucketName": "amplify-awsamplifyreactotp-devotp-84234-deployment",
-          "s3Key": "amplify-builds/amplifyreactotpCreateAuthChallenge-49736b79356c6d6e4832-build.zip"
+          "s3Key": "amplify-builds/amplifyreactotpCreateAuthChallenge-43573861313463546b79-build.zip"
         },
         "amplifyreactotpDefineAuthChallenge": {
           "deploymentBucketName": "amplify-awsamplifyreactotp-devotp-84234-deployment",
